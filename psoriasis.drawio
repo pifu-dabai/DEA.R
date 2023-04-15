@@ -1,17 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T03:01:27.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RtitY5u7c5Gl3Q2pOnRP" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T08:13:47.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TsjXdY3nXnuCf4iRzFeW" version="21.1.7" type="github">
   <diagram name="第 1 页" id="U4mesdBTffYrPHzzo0_h">
-    <mxGraphModel dx="1032" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yFWF_R06-EUS3LjBShWH-1" value="&lt;br&gt;3,302 participating psoriasis patients from 14 hospitals nationwide from all over China. (&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;宋体;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;October 31, 2019 to January 31, 2023&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="220" height="110" as="geometry" />
+        <mxCell id="yFWF_R06-EUS3LjBShWH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="yFWF_R06-EUS3LjBShWH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261.9999999999998" y="201" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="262" y="281" />
+              <mxPoint x="262" y="281" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="yFWF_R06-EUS3LjBShWH-2" value="2115 Included (follow-up to March&amp;nbsp;&amp;nbsp;January 31, 2023)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="331" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-3" value="&lt;font face=&quot;Helvetica Neue, Helvetica, Arial, Hiragino Sans GB, Hiragino Sans GB W3, Microsoft YaHei UI, Microsoft YaHei, sans-serif&quot; color=&quot;#333333&quot;&gt;Formation of the Derivation, Internal Validation, and External Validation Cohorts Hospitalized With Psoriasis&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="490" width="560" height="50" as="geometry" />
+          <mxGeometry x="110" y="790" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yFWF_R06-EUS3LjBShWH-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262" y="281" as="sourcePoint" />
+            <mxPoint x="401.9999999999998" y="280.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-8" target="yFWF_R06-EUS3LjBShWH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-8" value="&lt;div&gt;Training set&amp;nbsp;&lt;/div&gt;&lt;div&gt;Total sample:&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="112" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-9" target="yFWF_R06-EUS3LjBShWH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-9" value="&lt;div&gt;Testing test&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;Total sample:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-22" value="External Validation Cohort&lt;br&gt;2761" style="rounded=1;whiteSpace=wrap;html=1;align=left;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="980" y="425" width="60" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-23" target="yFWF_R06-EUS3LjBShWH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-23" value="&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;the Department of Dermatology of the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;University of Hong Kong-Shenzhen&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="730" y="432" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-24" target="yFWF_R06-EUS3LjBShWH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-24" value="the People&#39;s Hospital of the Xinjiang&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Uygur Autonomous Region&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="580" width="208" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-28" target="yFWF_R06-EUS3LjBShWH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-28" target="yFWF_R06-EUS3LjBShWH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-28" value="22 characteristics with coefficient P-values less than 0.05&amp;nbsp;based on univariate COX regression analysis" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="83" y="540" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-29" target="yFWF_R06-EUS3LjBShWH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-29" value="The final prediction model incorporated 13 common indicators based on multivariate COX regression analysis,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262.0000000000002" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Study Population&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="212" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.627;entryY=-0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-2" target="yFWF_R06-EUS3LjBShWH-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="390" as="sourcePoint" />
+            <mxPoint x="560" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="361" />
+              <mxPoint x="440" y="410" />
+              <mxPoint x="400" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-37" value="30%" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yFWF_R06-EUS3LjBShWH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.463;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-2" target="yFWF_R06-EUS3LjBShWH-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="410" as="sourcePoint" />
+            <mxPoint x="160" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-39" value="70%" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yFWF_R06-EUS3LjBShWH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-41" value="P-values more than 0.05" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-46" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Predictive accuracy of incident&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;/risk&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;factors/combined using COX&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;regression model&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="505" y="414" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="930" y="460" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-55" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Insufficient follow-up,&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;remove missing data.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;the extreme data that seemed to be out of line with the norm and obviously exceeded the actual normal range, such as too large or too small weight or height.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="221" width="320" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-56" value="1187 Excluded" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-57" value="3,302 participating psoriasis patients from 14 hospitals nationwide from all over China. (&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;October 31, 2019 to January 31, 2023&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="121" width="245" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-60" value="A COX regression analysis was required to change some&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: transparent;&quot;&gt;data with values of 0 (PASI and BSA) to 0.01.&lt;/span&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="333.9" y="630" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=9.5;dx=30.36;arrowHead=61.23;rotation=-110;" vertex="1" parent="1">
+          <mxGeometry x="223.9" y="616.26" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
