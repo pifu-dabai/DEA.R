@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T09:45:17.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TU82mSd6rSx431Q5r38f" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T09:50:28.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UMguxzXzV0i6Y62DLYDG" version="21.1.7" type="github">
   <diagram name="第 1 页" id="U4mesdBTffYrPHzzo0_h">
-    <mxGraphModel dx="1744" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
         <mxCell id="yFWF_R06-EUS3LjBShWH-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=Times New Roman;labelBackgroundColor=none;labelBorderColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;container=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="460" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-55" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Insufficient follow-up,&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;remove missing data.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;the extreme data that seemed to be out of line with the norm and obviously exceeded the actual normal range, such as too large or too small weight or height.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;container=0;" vertex="1" parent="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-55" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;PASI and Course of disease: Insufficient follow-up,&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;BSA, DLQI, Sex, Age：remove missing data.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Weight and Height: the extreme data that seemed to be out of line with the norm and obviously exceeded the actual normal range, such as too large or too small .&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;container=0;" vertex="1" parent="1">
           <mxGeometry x="401" y="208" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-56" value="1187 Excluded" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fontColor=#46495D;rounded=1;container=0;" vertex="1" parent="1">
