@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T15:25:57.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="x-A_uEnWdC23Ovjztyrg" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T15:26:50.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zz7WFvsZ_JxufF874dGe" version="21.1.9" type="github">
   <diagram name="第 1 页" id="U4mesdBTffYrPHzzo0_h">
-    <mxGraphModel dx="1032" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="680" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
         <mxCell id="10i8PntJXFFodvHVopwG-8" value="&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Validation Cohort&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727.0033740234375" y="660.9966870117188" width="160" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="10i8PntJXFFodvHVopwG-10" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&#xa;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&#xa;宋体;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&#xa;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&#xa;mso-bidi-language:AR-SA&quot;&gt;Model Derivation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10i8PntJXFFodvHVopwG-10" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Model Derivation&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318.3333740234375" y="656" width="128" height="39" as="geometry" />
         </mxCell>
       </root>
