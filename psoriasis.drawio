@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T15:03:16.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cojVqCY7Ew-tqH8E0nnr" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T15:04:32.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5O4J5JdRLSzyQXtk-0VR" version="21.5.1" type="github">
   <diagram name="第 1 页" id="U4mesdBTffYrPHzzo0_h">
-    <mxGraphModel dx="581" dy="305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
           <mxGeometry x="139.99999999999997" y="703" width="92.67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="10i8PntJXFFodvHVopwG-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;June 1, 2022&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
-          <mxGeometry x="604.0033740234375" y="700.9966870117188" width="89" height="37" as="geometry" />
+          <mxGeometry x="609.0033740234375" y="700.9966870117188" width="89" height="37" as="geometry" />
         </mxCell>
         <mxCell id="10i8PntJXFFodvHVopwG-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;January 31, 2023&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="895.0033740234375" y="697.9966870117188" width="110" height="37" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="154" y="123" width="251" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xTy6tT2cLd2pffBTO3wL-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;May 31, 2022&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="513.0033740234375" y="700.9966870117188" width="89" height="37" as="geometry" />
+          <mxGeometry x="509.00337402343746" y="700.9966870117188" width="89" height="37" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-60" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;A COX regression analysis was required to change some&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;data with values of 0 (PASI and BSA) to 0.01.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;container=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="438" y="338" width="184" height="110" as="geometry" />
