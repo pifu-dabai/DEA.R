@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T14:58:09.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dKvyyxlQzE93ufycMJaV" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T14:58:34.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-5N6kE4Ojgx9wBenb_m3" version="21.5.1" type="github">
   <diagram name="第 1 页" id="U4mesdBTffYrPHzzo0_h">
     <mxGraphModel dx="847" dy="444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="10i8PntJXFFodvHVopwG-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Validation Cohort&amp;nbsp;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="727.0033740234375" y="660.9966870117188" width="160" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="10i8PntJXFFodvHVopwG-10" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Model Derivation&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
+        <mxCell id="10i8PntJXFFodvHVopwG-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model Derivation&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="344.0033740234375" y="668.5" width="128" height="39" as="geometry" />
         </mxCell>
         <mxCell id="10i8PntJXFFodvHVopwG-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.02;dx=46.95;arrowHead=55;labelBackgroundColor=none;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
