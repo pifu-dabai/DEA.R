@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T16:30:30.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gSEub0sjtKrnqbcWAN_6" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.10">
   <diagram name="第 1 页" id="U4mesdBTffYrPHzzo0_h">
-    <mxGraphModel dx="1283" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="10i8PntJXFFodvHVopwG-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.02;dx=46.95;arrowHead=55;labelBackgroundColor=none;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="663" y="335" width="138" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-2" value="2,109 Included.&amp;nbsp;A total of 1007 PASI＜&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;line-height:150%;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;10 and 1108 PASI ≥10 psoriasis patients were enrolled from&amp;nbsp;&lt;/span&gt;October 31, 2019 to&amp;nbsp;May 31, 2022" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-2" value="2,109 Included. A total of 1,007 PASI＜10 and 1,108 PASI ≥10 psoriasis patients were enrolled from October 31, 2019 to May 31, 2022" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="149" y="340" width="255" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ClUcgKh6NB237croPPQv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-23" edge="1">
@@ -15,13 +15,10 @@
             <mxPoint x="720.2941176470588" y="483.58823529411757" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#82b366;fontColor=default;fillColor=#d5e8d4;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-28" target="yFWF_R06-EUS3LjBShWH-41" edge="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#82B366;fontColor=default;fillColor=#d5e8d4;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-28" target="yFWF_R06-EUS3LjBShWH-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#82b366;fontColor=default;fillColor=#d5e8d4;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-28" target="yFWF_R06-EUS3LjBShWH-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-28" value="22 characteristics with coefficient P-values less than 0.05&amp;nbsp;based on univariate COX regression analysis" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-28" value="Univariate analysis and observation of preliminary results.&amp;nbsp;&lt;div&gt;Filter variables&amp;nbsp;based on LASSO regression analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
           <mxGeometry x="186.5" y="448" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;strokeColor=#82b366;fontColor=default;fillColor=#d5e8d4;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-2" target="yFWF_R06-EUS3LjBShWH-28" edge="1">
@@ -29,8 +26,8 @@
             <mxPoint x="170" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-29" value="The final prediction model incorporated 11 common indicators based on multivariate COX regression analysis,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
-          <mxGeometry x="337" y="540" width="200" height="60" as="geometry" />
+        <mxCell id="yFWF_R06-EUS3LjBShWH-29" value="The final prediction model incorporated 10 common indicators based on multivariate logistic regression analysis" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+          <mxGeometry x="337" y="546" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;strokeColor=#82b366;fontColor=default;fillColor=#d5e8d4;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,10 +40,13 @@
         <mxCell id="yFWF_R06-EUS3LjBShWH-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Study Population&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;container=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;The characteristics for which P values higher than 0.05 were excluded.&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
-          <mxGeometry x="140" y="537" width="134" height="60" as="geometry" />
+        <mxCell id="o7Gt8Aon3M6dbrQb6sp5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82B366;fillColor=#97D077;" edge="1" parent="1" source="yFWF_R06-EUS3LjBShWH-41" target="yFWF_R06-EUS3LjBShWH-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-46" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;text-indent: 0cm; background-color: transparent;&quot;&gt;Performance of the PASI ≥10&lt;br&gt;Risk Nomogram&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;using COX analysis&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-41" value="&lt;div style=&quot;&quot;&gt;Multivariate logistic regression: further selection of characteristic indicators&lt;br&gt;&lt;/div&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="142" y="546" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFWF_R06-EUS3LjBShWH-46" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;text-indent: 0cm; background-color: transparent;&quot;&gt;Performance of the PASI ≥10&lt;br&gt;Risk Nomogram&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;using logistic analysis&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
           <mxGeometry x="507" y="456" width="160" height="56" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;strokeColor=#82b366;fontColor=default;fillColor=#d5e8d4;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-23" target="yFWF_R06-EUS3LjBShWH-46" edge="1">
@@ -58,7 +58,7 @@
         <mxCell id="yFWF_R06-EUS3LjBShWH-55" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;PASI and Course of disease: insufficient follow-up&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;BSA, DLQI, Sex, Age: remove missing data&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Weight and Height: the extreme data that seemed to be out of line with the norm and obviously exceeded the actual normal range (too large or too small)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="537" y="117" width="318" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-56" value="1187 Excluded" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;rounded=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-56" value="1,192 Excluded" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;rounded=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="426" y="125" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ClUcgKh6NB237croPPQv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-57" target="ClUcgKh6NB237croPPQv-5" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="ClUcgKh6NB237croPPQv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" source="yFWF_R06-EUS3LjBShWH-57" target="yFWF_R06-EUS3LjBShWH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-57" value="2,505 participating psoriasis patients from 12 hospitals nationwide from all over China.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
+        <mxCell id="yFWF_R06-EUS3LjBShWH-57" value="2,500 participating psoriasis patients from 12 hospitals nationwide from all over China.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="154" y="236" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=5.26;dx=28.12;arrowHead=46.55;rotation=-90;fontFamily=Times New Roman;labelBackgroundColor=none;labelBorderColor=default;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;container=0;direction=north;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="ClUcgKh6NB237croPPQv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" source="ClUcgKh6NB237croPPQv-5" target="yFWF_R06-EUS3LjBShWH-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ClUcgKh6NB237croPPQv-5" value="390&amp;nbsp;psoriasis patients&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;in the external validation cohort&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from June 1, 2022, to January 31, 2023&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;labelBackgroundColor=none;labelBorderColor=none;align=left;" parent="1" vertex="1">
+        <mxCell id="ClUcgKh6NB237croPPQv-5" value="391 psoriasis patients&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;in the external validation cohort&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from June 1, 2022, to January 31, 2023&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;labelBackgroundColor=none;labelBorderColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="541" y="246" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ClUcgKh6NB237croPPQv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" source="ClUcgKh6NB237croPPQv-8" edge="1">
@@ -126,8 +126,8 @@
         <mxCell id="xTy6tT2cLd2pffBTO3wL-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;May 31, 2022&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="509.00337402343746" y="700.9966870117188" width="89" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="yFWF_R06-EUS3LjBShWH-60" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;A COX regression analysis was required to change some&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;data with values of 0 (PASI and BSA) to 0.01.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;container=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="438" y="338" width="184" height="110" as="geometry" />
+        <mxCell id="yFWF_R06-EUS3LjBShWH-60" value="&lt;ul&gt;&lt;li&gt;Remove all outliers&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Likelihood ratio test&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Multicollinearity test&lt;/li&gt;&lt;/ul&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;container=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="451" y="335" width="184" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yFWF_R06-EUS3LjBShWH-24" value="&lt;div&gt;The People&#39;s Hospital of the Xinjiang&lt;/div&gt;&lt;div&gt;Uygur Autonomous Region(193 patients,&amp;nbsp;&lt;/div&gt;&lt;div&gt;from June 1, 2022 to January 31, 2023&lt;span style=&quot;background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;labelBackgroundColor=none;verticalAlign=middle;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="580" width="224" height="60" as="geometry" />
